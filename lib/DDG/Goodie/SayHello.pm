@@ -1,6 +1,10 @@
 package DDG::Goodie::SayHello;
 # ABSTRACT: Make DuckDuckGo say hello
+<<<<<<< HEAD
 # author  lovius@gmail.com
+=======
+# author M Lovius 
+>>>>>>> 2a363a7b3c6587c8a09f40a86d0b4a9336718f08
 use DDG::Goodie;
 
 primary_example_queries 'Say Hello';
